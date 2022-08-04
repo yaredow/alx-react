@@ -1,5 +1,6 @@
 /*
 Create a function named mergeDeeplyElements
+
 It should accept two arguments, page1 and page2. Both are objects
 It should return a List containing the values of the two pages
 If two values are the same, they should combine each other
